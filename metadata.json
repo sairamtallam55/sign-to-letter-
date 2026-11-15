@@ -1,0 +1,6 @@
+{
+  "name": "ISL Studio — Real-Time Hand Gesture Recognition",
+  "description": "AI-powered Indian Sign Language (ISL) alphabet recognition, interactive learning guide, webcam landmark data collector, and Random Forest ML evaluation studio.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
